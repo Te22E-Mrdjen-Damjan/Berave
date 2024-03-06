@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+
+}
+#linje{
+    height: 0.3rem;
+    width: 100%;
+    background-color: blue;
+}
